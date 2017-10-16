@@ -1,6 +1,6 @@
 html,
 body,
-div {
+body > div {
     min-height: 100%;
 }
 
@@ -22,6 +22,10 @@ div {
     font-size: 0.8rem;
     margin: 5px 0;
     padding: .35rem 0.75rem;
+}
+
+.app .list-group-item.list-group-item-priority-0 {
+    border-left-color: #f8f9fa;
 }
 
 .app .list-group-item.list-group-item-priority-1 {
