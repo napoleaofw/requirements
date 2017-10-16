@@ -1,0 +1,13 @@
+html,
+body,
+div {
+    height: 100%;
+}
+
+.col-4 {
+    background-color: #f1f1f1;
+}
+
+.col-8 {
+    background-color: #fff;
+}
