@@ -7,7 +7,7 @@
         @include('list.style')
     </head>
     <body class="app">
-        @include('body')
+        @include('list.body')
         @include('script')
         @include('list.script')
     </body>

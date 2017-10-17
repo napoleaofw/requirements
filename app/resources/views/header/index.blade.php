@@ -8,7 +8,7 @@
         @include('header.style')
     </head>
     <body class="app">
-        @include('body')
+        @include('header.body')
         @include('list.body')
         @include('script')
         @include('list.script')
